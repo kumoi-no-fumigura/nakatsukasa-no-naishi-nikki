@@ -27,7 +27,7 @@
   "text": "CC0 1.0"
  },
  "translation": {
-  "count": 25,
+  "count": 26,
   "note": "AI による現代語訳"
  },
  "blocks": [
@@ -934,6 +934,6 @@
   "poems": 26,
   "editions": 1,
   "updated": "2026-10-27",
-  "updated_at": "2026-10-27T10:46:55+09:00"
+  "updated_at": "2026-10-27T18:22:05+09:00"
  }
 }
